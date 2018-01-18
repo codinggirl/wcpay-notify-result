@@ -1,6 +1,6 @@
 {
   "name": "wcpay-notify-result",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to build a result string for wechat pay notify callback",
   "main": "index.js",
   "scripts": {
