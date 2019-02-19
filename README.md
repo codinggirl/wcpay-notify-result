@@ -1,5 +1,7 @@
 # wcpay-notify-result
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/codinggirl/wcpay-notify-result.svg)](https://greenkeeper.io/)
+
 Read by language:
 [[Engish]](#en) [[简体中文]](#zh-CN)
 
